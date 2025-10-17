@@ -1,1 +1,1 @@
-# sing-box-bash
+setup sing-box tcp tls
